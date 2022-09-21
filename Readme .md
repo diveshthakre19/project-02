@@ -8,3 +8,6 @@ This project my second project
  * Multi-column footer
 
  ### This project took 6.5 hours.
+ 
+[Deployed link](https://divesh02.netlify.app)
+
